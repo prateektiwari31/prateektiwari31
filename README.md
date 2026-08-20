@@ -29,21 +29,21 @@
 
 ### Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-34
+
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-35
+
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-36
+
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-41
+
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-46
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
@@ -102,9 +102,13 @@ Microservices architecture using Spring Cloud ecosystem.
 
 ## 📫 Connect With Me
 
-https://img.shields.io/badge/LinkedIn-Prateek%20Tiwari-blue?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/prateek2003/)
+<a href/linkedin.com/in/prateek2003
+://img.shields.io/badge/LinkedIn-Prateek_Tiwari-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-📧 Email: prateektiwari828@gmail.com
+:prateektiwari828@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-theo=gmail
+</a>
 
 ---
 
