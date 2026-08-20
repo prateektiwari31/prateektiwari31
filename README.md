@@ -111,8 +111,8 @@ Microservices architecture using Spring Cloud.
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prateek_Tiwarior-the-badge&logo=linkedin](https://www.linkedin.com/in/prateek2003/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prateek_Tiwari-blue?style=for-the-badge&logo=linkedin)](https://www.linkedink2003/)
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColorilto:prateektiwari828@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prateektiwariom)
 
 -
