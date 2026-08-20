@@ -91,7 +91,8 @@ Microservices architecture using Spring Cloud ecosystem.
 
 - LeetCode: Focused on Data Structures & Algorithms
 - GeeksForGeeks: 500+ Problem Solving Journey
-- GitHub: https://github.com/prateektiwari31
+- Leetcode: https://leetcode.com/u/Prateek_31/
+- GFG : https://www.geeksforgeeks.org/profile/prateektiakxi?tab=activity
 
 ---
 
