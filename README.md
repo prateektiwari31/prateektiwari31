@@ -102,14 +102,15 @@ Microservices architecture using Spring Cloud ecosystem.
 
 ## 📫 Connect With Me
 
-<a href/linkedin.com/in/prateek2003
-://img.shields.io/badge/LinkedIn-Prateek_Tiwari-blue?style=for-the-badge&logo=linkedin">
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/prateek2003/"g.shields.io/badge/LinkedIn-Prateek%20Tiwari-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 
-:prateektiwari828@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-theo=gmail
-</a>
-
+  <a href="mailto:prateektiwari828@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-bgmail
+  </a>
+</p>
+      
 ---
 
 ### 💭 Quote
